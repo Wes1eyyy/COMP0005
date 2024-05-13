@@ -19,6 +19,7 @@
 - **更新（Update）**：与插入操作类似，但是是替换已存在的数据。
 
 ### 冲突管理(Collision Management)
+[数据结构大题—哈希查找，拉链法和线性探测法构造哈希表并求平均查找长度](https://www.bilibili.com/video/BV1Kc411t7x8/?spm_id_from=333.337.search-card.all.click&vd_source=1970b1cb79523da04f01ebdee092447d)
 分离链接（Separate Chaining）和线性探测（Linear Probing）都是解决哈希表中的哈希冲突的常用方法。它们各有特点，并适用于不同的应用场景。以下是这两种技术的详细操作过程介绍：
 
 ### 分离链接（Separate Chaining）
