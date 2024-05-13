@@ -24,5 +24,3 @@ Strings:
 - ⁠String search (R-way tries/ 3-way tries)
 - ⁠Substring search (Brute force/Knuth-Morris-Pratt algorithm/Boyer-Moore algorithm)
 - ⁠Compression - Lossless (Run-Length Encoding/Huffman Algorithm)
-
-感谢来自lyl的大纲
