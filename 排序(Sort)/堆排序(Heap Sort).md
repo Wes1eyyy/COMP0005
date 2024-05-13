@@ -1,7 +1,7 @@
 [【从堆的定义到优先队列、堆排序】 10分钟看懂必考的数据结构——堆_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1AF411G7cA/?spm_id_from=333.788.recommend_more_video.4&vd_source=1970b1cb79523da04f01ebdee092447d)
 一种利用堆这种数据结构设计的排序算法。
 
-![](Pasted image 20240513033742.png)
+![堆排序示意图](Pasted image 20240513033742.png)
 
 方法思路：
 - 1. 将待排序数组构造成一个最大堆或最小堆。
